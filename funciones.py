@@ -1,1 +1,4 @@
-print ("Hola munfo")
+def saludar():
+	print ("Hola munfo")
+
+saludar()
